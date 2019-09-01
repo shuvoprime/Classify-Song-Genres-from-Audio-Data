@@ -1,0 +1,5 @@
+What i did here :
+
+1. Used pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots 
+2. Used the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc
+3. Implementating common algorithms such as PCA, logistic regression, decision trees, and so forth.
